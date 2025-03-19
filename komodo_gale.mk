@@ -12,6 +12,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/gale/device.mk)
 
 # Inherit some common KomodoOS stuff.
+KOMODO_OFFICIAL := true
 KOMODO_MAINTAINER := wulan17
 $(call inherit-product, vendor/komodo/config/common_full_phone.mk)
 
