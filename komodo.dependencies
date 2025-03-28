@@ -1,8 +1,7 @@
 [
   {
-    "repository": "LineageOS/android_device_mediatek_sepolicy_vndr",
-    "target_path": "device/mediatek/sepolicy_vndr",
-    "branch": "lineage-22.1"
+    "repository": "Komodo-OS/device_mediatek_sepolicy_vndr",
+    "target_path": "device/mediatek/sepolicy_vndr"
   },
   {
     "repository": "LineageOS/android_hardware_mediatek",
